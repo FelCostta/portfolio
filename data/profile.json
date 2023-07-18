@@ -1,0 +1,59 @@
+{
+  "name": "Felipe A Costa",
+  "photo": "https://avatars.githubusercontent.com/u/106923594?v=4",
+  "job": "Front-End Junior Developer",
+  "location": "Brasília - DF",
+  "phone": "(61) 9***-**37",
+  "email": "felipecostta.dev@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/FelCostta/portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/FelCostta/portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/FelCostta/portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/FelCostta/portfolio/main/data/imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso na DIO para a criação de uma Pokedex",
+      "url": "https://https://github.com/FelCostta/pokeapiDIO",
+      "github": true
+    },
+    {
+      "name": "Curso na DIO Criando uma Calculadora utilizando React",
+      "url": "https://github.com/FelCostta/Criando-Calculadora-React-DIO",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Militar / Exército Brasileiro",
+      "period": "2008 - até o momento",
+      "description": "Local onde foi adquirido diversas SoftSkills. Durante este período me formei em Programação e Webdesign e realizei diversos cursos nas plataformas DIO e ALURA."
+    }
+  ]
+}
